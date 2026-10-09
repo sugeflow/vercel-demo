@@ -1,0 +1,9 @@
+{
+  "name": "vercel-demo",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@vercel/blob": "latest",
+    "ai": "latest"
+  }
+}
